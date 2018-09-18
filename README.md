@@ -13,9 +13,8 @@ git clone  https://github.com/itzhaolin/Node-mysql-jquery.git
 
 npm install
 
-npm start 启动后台服务
+npm start 同时启动 后台服务和webpack服务器
 
-npm run dev 启动webpack服务器(需另开一个窗口)
 ```
 
 访问 http://127.0.0.1:3000
